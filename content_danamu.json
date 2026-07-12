@@ -1,6 +1,56 @@
 {
     "categories": [
         {
+            "id": "cara_aktifin_dana_cicil",
+            "title": "Cara Aktifin Dana Cicil",
+            "description": "Panduan lengkap 7 langkah mudah untuk memunculkan dan mengaktifkan fitur DANA Cicil.",
+            "category_image_url": "https://raw.githubusercontent.com/hajithoifah/aktifindana/main/images/liquid_wallpapers(1).webp",
+            "articles": [
+                {
+                    "id": "dc_step_1",
+                    "title": "Tahap 1: Update Aplikasi DANA ke Versi Terbaru",
+                    "image_url": "https://raw.githubusercontent.com/hajithoifah/aktifindana/main/images/liquid_wallpapers(2).webp",
+                    "content": "Langkah pertama yang paling penting adalah memastikan aplikasi DANA di HP Anda sudah menggunakan versi terbaru. Buka Google Play Store atau App Store, cari aplikasi DANA, lalu klik 'Update' jika tombol pembaruan tersedia. Fitur terbaru dan eksklusif seperti DANA Cicil sering kali hanya muncul pada aplikasi versi mutakhir untuk memastikan keamanan dan stabilitas."
+                },
+                {
+                    "id": "dc_step_2",
+                    "title": "Tahap 2: Upgrade Akun Menjadi DANA Premium",
+                    "image_url": "https://raw.githubusercontent.com/hajithoifah/aktifindana/main/images/liquid_wallpapers(3).webp",
+                    "content": "Fitur DANA Cicil dan Paylater hanya diberikan kepada pengguna yang telah melakukan verifikasi identitas (KYC). Pastikan akun Anda sudah berstatus DANA Premium. Siapkan e-KTP fisik Anda yang masih berlaku, masuk ke menu 'Profil' atau 'Saya', lalu pilih opsi verifikasi akun. Ikuti instruksi di layar untuk memfoto KTP dan melakukan pemindaian wajah hingga verifikasi disetujui oleh sistem."
+                },
+                {
+                    "id": "dc_step_3",
+                    "title": "Tahap 3: Perbanyak Transaksi Menggunakan DANA",
+                    "image_url": "https://raw.githubusercontent.com/hajithoifah/aktifindana/main/images/liquid_wallpapers(4).webp",
+                    "content": "DANA Cicil adalah fitur eksklusif yang diberikan melalui undangan (by invitation) oleh sistem berdasarkan penilaian kredit internal. Untuk mendapatkan kepercayaan sistem, Anda perlu membangun riwayat transaksi yang sehat. Gunakan saldo DANA Anda secara rutin untuk membayar tagihan listrik bulanan, iuran BPJS, membeli pulsa/paket data, atau bertransaksi di merchant offline (menggunakan QRIS) dan e-commerce."
+                },
+                {
+                    "id": "dc_step_4",
+                    "title": "Tahap 4: Cek Ketersediaan Fitur DANA Cicil",
+                    "image_url": "https://raw.githubusercontent.com/hajithoifah/aktifindana/main/images/liquid_wallpapers(5).webp",
+                    "content": "Setelah Anda aktif bertransaksi, cek secara berkala apakah fitur tersebut sudah diberikan untuk akun Anda. Buka halaman utama aplikasi DANA Anda. Ketuk tombol 'Lihat Semua' (See All) untuk membuka daftar lengkap layanan yang tersedia. Gulir perlahan ke bawah hingga Anda menemukan kategori 'Keuangan' (Financial), lalu cari ikon berwarna biru dengan tulisan 'DANA Cicil'."
+                },
+                {
+                    "id": "dc_step_5",
+                    "title": "Tahap 5: Mulai Proses Aktivasi",
+                    "image_url": "https://raw.githubusercontent.com/hajithoifah/aktifindana/main/images/liquid_wallpapers(6).webp",
+                    "content": "Jika ikon DANA Cicil sudah muncul terang dan bisa diklik, selamat! Artinya akun Anda telah terpilih. Klik ikon tersebut, lalu Anda akan diarahkan ke halaman perkenalan DANA Cicil. Di halaman ini, Anda bisa membaca dengan saksama informasi mengenai simulasi limit awal, keuntungan cicilan, dan rincian tenor. Jika sudah yakin, klik tombol 'Aktifkan Sekarang' di bagian bawah."
+                },
+                {
+                    "id": "dc_step_6",
+                    "title": "Tahap 6: Baca dan Setujui Syarat Ketentuan",
+                    "image_url": "https://raw.githubusercontent.com/hajithoifah/aktifindana/main/images/liquid_wallpapers(7).webp",
+                    "content": "Sama seperti pengajuan fasilitas finansial lainnya, Anda akan disajikan halaman Perjanjian Syarat dan Ketentuan layanan. Pastikan Anda meluangkan waktu membacanya untuk memahami kewajiban pembayaran, tanggal jatuh tempo, dan rincian biaya layanan. Jika Anda sudah paham dan setuju, centang kotak persetujuan (checkbox) yang disediakan, lalu tekan tombol konfirmasi atau lanjutkan."
+                },
+                {
+                    "id": "dc_step_7",
+                    "title": "Tahap 7: Masukkan PIN dan Tunggu Verifikasi",
+                    "image_url": "https://raw.githubusercontent.com/hajithoifah/aktifindana/main/images/liquid_wallpapers(8).webp",
+                    "content": "Sebagai langkah terakhir untuk keamanan otorisasi digital, masukkan 6 digit PIN DANA Anda. Setelah itu, sistem DANA akan melakukan verifikasi dan peninjauan profil secara singkat. Jika disetujui, Anda akan langsung menerima notifikasi sukses beserta jumlah limit saldo kredit yang siap Anda gunakan untuk berbelanja dan dicicil bulan depan!"
+                }
+            ]
+        },
+        {
             "id": "cara_daftar_pinjol_legal",
             "title": "Cara daftar Pinjol Legal pasti di ACC",
             "description": "5 tahapan lengkap mengajukan pinjaman online resmi agar disetujui.",
